@@ -2,6 +2,10 @@ Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your pe
 
 Anyways dev.twitch.tv allows signatory accounts to gerenate what I label an "API key" for full access that does not require any other accounts to authenticate my "API key"
 
+So  what's this? Test of concept ML? I got everything in all threads, got emails for fun using tesseract then regex, spammed all the streamers literally the ones who put email in chromedriver. 
+
+I've never seen an RECAPTCHA-like machine intelligent safety system deployed at Twitch in my life.
+
 -----
 
 
