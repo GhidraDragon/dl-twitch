@@ -1,5 +1,9 @@
 Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your percentage of H1B hires isn't too much greater than 15% per year, because if it's maybe 40%? 10k new visas approved / 15% total headcount?? or / 40% totol headcount for the SAME JOB TITLES or similar enough
 
+Because after you hit the 15% rough limit let's go with 20% Mr Andy Jassy - how about another email from Amazon HR? - by statue either verbatim (this was a 2005 guidance verbatim but did Donald Trump remove it just now? Or change it?)
+
+H-1B-dependent employers must also make a good-faith effort to recruit U.S. workers for the position by deploying industry-wide standards before hiring an H-1B worker. The employer must recruit potential U.S. workers for the position through advertising, job fairs, and other standard forms of recruitment. Moreover, employers must offer the job to any equally or better qualified U.S. worker who applies for the position, and are prohibited from favoring current nonimmigrant employees who have not yet obtained H-1B status (e.g., students currently working under an Optional Practical Training (OPT) program).
+
 Anyways dev.twitch.tv allows signatory accounts to gerenate what I label an "API key" for full access that does not require any other accounts to authenticate my "API key"
 
 So  what's this? Test of concept ML? I got everything in all threads, got emails for fun using tesseract then regex, spammed all the streamers literally the ones who put email in chromedriver. 
