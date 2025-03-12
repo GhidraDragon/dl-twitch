@@ -2,7 +2,7 @@ Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your pe
 
 Anyways dev.twitch.tv allows signatory accounts to gerenate what I label an "API key" for full access that does not require any other accounts to authenticate my "API key"
 
-
+-----
 
 
 NOTE: if this doesn't work, you need to add your own client-id and bearer token. You could do it with the --client-id and --authorization command line arguments, or just change the default client_id and auth lines.
