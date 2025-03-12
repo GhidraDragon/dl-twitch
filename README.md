@@ -3,7 +3,11 @@ Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your pe
 
 -----
 
-Because after you hit the 15% rough limit let's go with 20% Mr Andy Jassy - how about another email from Amazon HR? - by a 2005 added guidance I think, you're required to perform this loop for every += 1 H1B visa you APPLY for. APPLY --- (please pass onto erosolar who will pass onto me which job strings you'd need me to apply for - I thought I got 3-4 exact strmatch) 
+Because after you hit the 15% rough limit let's go with 20% Mr Andy Jassy - how about another email from Amazon HR? - by a 2005 added guidance I think, you're required to perform this loop for every += 1 H1B visa you APPLY for. APPLY
+
+NOTE: Donny's Jan 2025 something I believe replaced I'm not sure whether legally or not the below paste, but it essentially says the same thing - https://www.dol.gov/agencies/whd/fact-sheets/62o-h1b-recruitment
+
+
 
 H-1B-dependent employers must also make a good-faith effort to recruit U.S. workers for the position by deploying industry-wide standards before hiring an H-1B worker. The employer must recruit potential U.S. workers for the position through advertising, job fairs, and other standard forms of recruitment. Moreover, employers must offer the job to any equally or better qualified U.S. worker who applies for the position, and are prohibited from favoring current nonimmigrant employees who have not yet obtained H-1B status (e.g., students currently working under an Optional Practical Training (OPT) program).
 
