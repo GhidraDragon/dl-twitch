@@ -4,6 +4,24 @@ Because after you hit the 15% rough limit let's go with 20% Mr Andy Jassy - how 
 
 H-1B-dependent employers must also make a good-faith effort to recruit U.S. workers for the position by deploying industry-wide standards before hiring an H-1B worker. The employer must recruit potential U.S. workers for the position through advertising, job fairs, and other standard forms of recruitment. Moreover, employers must offer the job to any equally or better qualified U.S. worker who applies for the position, and are prohibited from favoring current nonimmigrant employees who have not yet obtained H-1B status (e.g., students currently working under an Optional Practical Training (OPT) program).
 
+
+Here's a "Department of Labor" site https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/whdfs62O.pdf - I am sorry Donald the Chinese have no crediblity 
+
+An employer must recruit in “good faith.” What does this mean?
+An employer which recruits in good faith must offer fair and nondiscriminatory opportunities for employment
+to U.S. workers. U.S. workers must be given fair consideration for jobs. H-1B workers must not be favored
+over U.S. workers. 
+
+
+Must U.S. workers be offered jobs for which H-1B workers are sought?
+Yes. U.S. applicants must be offered such jobs in some circumstances. If the employer is H-1B dependent
+(see WH Fact Sheet #62C) or a willful violator of H-1B requirements (see WH Fact Sheet #62S), a U.S.
+worker who applies for a job for which an H-1B worker is sought must be offered the job if he/she is
+equally or better qualified than the H-1B applicant. These requirements also apply to an employer receiving
+funding described in EAWA who hires a new H-1B worker during the period Feb. 17, 2009 to Feb. 16, 2011
+(See WH Fact Sheet 62Z). 
+
+
 Anyways dev.twitch.tv allows signatory accounts to gerenate what I label an "API key" for full access that does not require any other accounts to authenticate my "API key"
 
 So  what's this? Test of concept ML? I got everything in all threads, got emails for fun using tesseract then regex, spammed all the streamers literally the ones who put email in chromedriver. 
