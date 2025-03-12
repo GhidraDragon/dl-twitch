@@ -1,3 +1,10 @@
+Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your percentage of H1B hires isn't too much greater than 15% per year, because if it's maybe 40%? 10k new visas approved / 15% total headcount?? or / 40% totol headcount for the SAME JOB TITLES or similar enough
+
+Anyways dev.twitch.tv allows signatory accounts to gerenate what I label an "API key" for full access that does not require any other accounts to authenticate my "API key"
+
+
+
+
 NOTE: if this doesn't work, you need to add your own client-id and bearer token. You could do it with the --client-id and --authorization command line arguments, or just change the default client_id and auth lines.
 
 You get your client-id and access tokens here: https://twitchtokengenerator.com/
