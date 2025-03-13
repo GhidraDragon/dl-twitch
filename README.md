@@ -1,3 +1,9 @@
+Jassy go pay anyone Twitch to fix this severe security flaw it's impossible ... 👌✋👍👍👍👍
+
+![Screenshot 2025-03-13 at 12 08 20 PM](https://github.com/user-attachments/assets/ed272db4-895e-49fa-a945-99864daccd6b)
+
+
+
 Responsibly disclosing Twitch Security practices to Amazon - ok - I hope your percentage of H1B hires isn't too much greater than 15% per year, because if it's maybe 40%? 10k new visas approved / 15% total headcount?? or / 40% totol headcount for the SAME JOB TITLES or similar enough
 
 
